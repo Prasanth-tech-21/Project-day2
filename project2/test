@@ -1,2 +1,5 @@
 EC2 – Provides resizable virtual servers in the cloud.
 Used to host applications and services.
+
+S3 – Scalable storage service for files and data.
+Commonly used for backups, static content, and logs.
